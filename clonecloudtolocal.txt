@@ -1,1 +1,2 @@
 i add this file from cloud to local to testing about clone
+this second line was made in local and about to push
